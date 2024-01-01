@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm lackMoon</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lackmoon&label=Profile%20views&color=0e75b6&style=flat" alt="lackmoon" /> </p>
 <h3 align="left">A passionate backend developer from China, and working on Japan now.</h3>
 
 - 🔭 I’m currently working on [BusTub(an educational database project)](https://github.com/lackMoon/busTub)
